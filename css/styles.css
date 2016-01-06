@@ -1,4 +1,44 @@
-.column {
-  width: 400px;
+.column1 {
+  width: 500px;
   float: left;
+}
+
+.column2 {
+  width: 500px;
+  float: left;
+}
+
+.column3 {
+  width: 500px;
+  float: left;
+}
+
+.column1 p {
+  color: red;
+}
+
+.column1 p a {
+  color: black;
+}
+
+.column2 p {
+  color: blue;
+}
+
+.column3 p {
+  color: purple;
+}
+
+.column2 h2 {
+  color: red;
+  font-size: 120%;
+}
+
+.column3 h2 {
+  color: white;
+  background-color: black;
+}
+
+.column1 img {
+  border: 20px dotted black;
 }
